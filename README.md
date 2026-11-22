@@ -79,17 +79,14 @@ https://github.com/sowjanyamadasu577/ECommerce-Automation-Testing
 
 ## Project Screenshots
 
-### 1. Login Success
+### Login Success
+![Login Success](./screenshots/Login%20Success.png)
 
-![Login Success](screenshots/Login%20Success.png)
+### Extent Report
+![Extent Report](./screenshots/Extent%20Report.png)
 
-### 2. Test Execution
-
-![Test Execution](screenshots/Test%20Execution.png)
-
-### 3. Extent Report
-
-![Extent Report](screenshots/Extent%20Report.png)
+### Test Execution
+![Test Execution](./screenshots/Test%20Execution.png)
 
 ## Author
 
