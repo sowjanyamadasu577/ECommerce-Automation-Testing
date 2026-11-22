@@ -60,7 +60,7 @@ ECommerceAutomation
 Run all test cases using Maven:
 
 ```bash
-mvn clean test
+mvn test
 ```
 
 ## Test Results
