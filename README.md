@@ -70,6 +70,16 @@ ExtentReports is used to generate an HTML test execution report.
 
 ## GitHub Repository
 https://github.com/sowjanyamadasu577/ECommerce-Automation-Testing
+## Project Screenshots
+
+### 1. Login Success
+![Login Success](Screenshots/Login%20Success.png)
+
+### 2. Test Execution
+![Test Execution](Screenshots/Test%20Execution.png)
+
+### 3. Extent Report
+![Extent Report](Screenshots/Extent%20Report.png)
 
 ## Author
 Sowjanya Madasu
