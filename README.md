@@ -1,13 +1,16 @@
 # E-Commerce Website Automation Testing
 
 ## Project Overview
+
 This project automates the testing of an e-commerce website using Selenium WebDriver with Java. It verifies important user functionalities such as login, product selection, shopping cart and checkout.
 
 ## Application Under Test
+
 - Website: https://www.saucedemo.com/
 - Application: SauceDemo
 
 ## Technologies Used
+
 - Java
 - Selenium WebDriver
 - TestNG
@@ -17,6 +20,7 @@ This project automates the testing of an e-commerce website using Selenium WebDr
 - Git & GitHub
 
 ## Framework
+
 Page Object Model (POM)
 
 ## Test Scenarios
@@ -66,22 +70,29 @@ mvn clean test
 - Failed: 0
 
 ## Reports
+
 ExtentReports is used to generate an HTML test execution report.
 
 ## GitHub Repository
+
 https://github.com/sowjanyamadasu577/ECommerce-Automation-Testing
+
 ## Project Screenshots
 
 ### 1. Login Success
-![Login Success](Screenshots/Login%20Success.png)
+
+![Login Success](screenshots/Login%20Success.png)
 
 ### 2. Test Execution
-![Test Execution](Screenshots/Test%20Execution.png)
+
+![Test Execution](screenshots/Test%20Execution.png)
 
 ### 3. Extent Report
-![Extent Report](Screenshots/Extent%20Report.png)
+
+![Extent Report](screenshots/Extent%20Report.png)
 
 ## Author
+
 Sowjanya Madasu
 
 QA Automation Testing Project
