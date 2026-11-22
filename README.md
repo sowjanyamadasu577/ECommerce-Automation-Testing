@@ -86,7 +86,7 @@ https://github.com/sowjanyamadasu577/ECommerce-Automation-Testing
 ![Extent Report](./screenshots/Extent%20Report.png)
 
 ### Test Execution
-![Test Execution](./screenshots/Test%20Execution.png)
+![TestExecution](./screenshots/Test%20Execution.png)
 
 ## Author
 
